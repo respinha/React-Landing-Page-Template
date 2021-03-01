@@ -94,17 +94,27 @@ export class Contact extends Component {
                     <li>
                       <a
                         href={this.props.data ? this.props.data.facebook : "/"}
+                        target="_blank"
+                        rel="noopener noreferrer"
                       >
                         <i className="fa fa-facebook"></i>
                       </a>
                     </li>
                     <li>
-                      <a href={this.props.data ? this.props.data.twitter : "/"}>
+                      <a
+                        href={this.props.data ? this.props.data.twitter : "/"}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
                         <i className="fa fa-twitter"></i>
                       </a>
                     </li>
                     <li>
-                      <a href={this.props.data ? this.props.data.youtube : "/"}>
+                      <a
+                        href={this.props.data ? this.props.data.youtube : "/"}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
                         <i className="fa fa-youtube"></i>
                       </a>
                     </li>
