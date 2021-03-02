@@ -223,11 +223,11 @@ header .intro-text {
 	text-align: center;
 }
 /* Features Section */
-#features {
+#coming-soon {
 	padding: 100px 0;
 	background: #f6f6f6;
 }
-#features i.fa {
+#coming-soon i.fa {
 	font-size: 38px;
 	margin-bottom: 20px;
 	transition: all 0.5s;
@@ -330,7 +330,7 @@ header .intro-text {
 	margin-bottom: 40px;
 }
 /* Portfolio Section */
-#portfolio {
+#gallery {
 	padding: 100px 0;
 }
 .portfolio-item {
@@ -414,20 +414,20 @@ header .intro-text {
 	color: #666;
 }
 /* Team Section */
-#team {
+#teams {
 	padding: 100px 0;
 }
-#team h4 {
+#teams h4 {
 	margin: 5px 0;
 }
-#team .team-img {
+#teams .team-img {
 	width: 240px;
 }
-#team .thumbnail {
+#teams .thumbnail {
 	background: transparent;
 	border: 0;
 }
-#team .thumbnail .caption {
+#teams .thumbnail .caption {
 	padding: 10px 0 0 0;
 	color: #888;
 }

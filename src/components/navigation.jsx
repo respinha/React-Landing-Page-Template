@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 const LABELS = [
   "About",
-  "Features",
+  "Coming Soon",
   "Services",
   "Gallery",
   "Testimonials",
@@ -52,7 +52,7 @@ const NavbarItem = ({ label }) => {
   return (
     <li>
       <a
-        href={`#${label.toLowerCase()}`}
+        href={`#${label.toLowerCase().replace(" ", "-")}`}
         className="page-scroll"
         style={{ fontWeight: "bold" }}
       >

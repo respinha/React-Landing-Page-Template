@@ -3,7 +3,7 @@ import React, { Component } from "react";
 export class features extends Component {
   render() {
     return (
-      <div id="features" className="text-center">
+      <div id="coming-soon" className="text-center">
         <div className="container">
           <div className="col-md-10 col-md-offset-1 section-title">
             <h2>Coming soon</h2>
