@@ -112,9 +112,9 @@
         "address": "4321 California St, San Francisco, CA 12345 ",
         "phone": "+1 123 456 1234",
         "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "instagram": "https://instagram.com/andrea.conangla",
+        "youtube": "https://youtube.com/user/andreasatellite01",
+        "twitter": "twitter.com"
     },
     "Features": [{
             "icon": "fa fa-comments-o",
