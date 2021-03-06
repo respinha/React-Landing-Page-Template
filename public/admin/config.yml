@@ -7,52 +7,26 @@ media_folder: "public/img"
 public_folder: "/public/img"
 
 collections:
-  - name: settings
-    label: Settings
-    files:
-      - file: public/manifest.json
-        name: manifest
-        label: 'Manifest Settings'
-        fields:
-          - name: short_name
-            label: 'Short Name'
-            widget: string
-            required: true
-          - name: name
-            label: 'Name'
-            widget: string
-            required: true
-          - name: start_url
-            label: 'Start URL'
-            widget: string
-            default: '.'
-            required: true
-          - name: display
-            label: 'Display Type'
-            widget: string
-            default: 'standalone'
-            required: true
-          - name: theme_color
-            label: 'Theme Color'
-            widget: string
-            default: '#000000'
-            required: true
-          - name: background_color
-            label: 'Theme Color'
-            widget: string
-            default: '#FFFFFF'
-            required: true
-          - name: icons
-            widget: list
-            label: 'Icons'
-            allow_add: true
-            fields:
-              - widget: string
-                name: src
-                label: Source
-              - widget: string
-                name: sizes
-                label: 'Sizes'
-              - widget: string
-                name: type
-                label: 'Mime Type'
+  - name: projects
+    label: Projects
+    folder: public/_posts  
+    create: true
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Image", name: "image", widget: "image"}
+      # fields:
+      #   - name: name
+      #     label: 'Name'
+      #     widget: string
+      #     required: true
+      #   - name: description
+      #     label: 'Description'
+      #     widget: string
+      #     required: true
+      #   - name: date
+      #     label: 'Date'
+      #     widget: date
+      #     required: true
+        
