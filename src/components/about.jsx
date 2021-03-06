@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 
+const LANGUAGES = ["EN", "DE"];
 export class about extends Component {
   state = {
     lang: "EN",
@@ -10,7 +11,7 @@ export class about extends Component {
   };
 
   renderLanguages = () => {
-    return ["DE", "EN"].map((lang) => {
+    return LANGUAGES.map((lang) => {
       return (
         lang !== this.state.lang ? 
         <a href="#about" onClick={() => this.setLang(lang)}>
