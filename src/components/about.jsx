@@ -22,13 +22,11 @@ export class about extends Component {
   };
 
   renderText = () => {
-    return this.state.lang == "EN" ? (
-      this.props.data?.paragraphs.map((p) => {
-        return <p>{p}</p>;
-      })
-    ) : (
-      <p>TBD</p>
-    );
+    const lang = this.state.lang.toLowerCase();
+    const data = this.props.data;
+    return data ? data[lang].map((p) => {
+      return <p>{p}</p>;
+    }) : <p>TBD</p>;
   };
 
   render() {

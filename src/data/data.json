@@ -5,23 +5,16 @@
         "paragraph": "Soprano"
     },
     "About": {
-        "paragraphs": [
-            "Andrea Conangla (*1993 in Tarragona, Spain) grew up in Portugal and at the age of 12 began to learn violin, trumpet and later singing. Before moving to Stuttgart in 2017 to study contemporary music with Prof. Angelika Luz at the Hochschule for Music und darstellende Kunst Stuttgart, Andrea Conangla studied in Portugal (Universidade de Aveiro) and in the Netherlands (Prins Claus Conservatorium). During her Education Masters Degree, Andrea Conangla developed a creative approach to the teaching of voice to actors through movement and improvisation which lead her to work with diverse groups of people. ",
-            "From 2013 to 2015 she successfully participated in international competitions in Portugal. Andrea Conangla is the winner of the Santa Cecília International Music Competition, in Porto (1st prize) and the International Music Competition “Cidade do Fundão” (2nd prize).",
-            "She is internationally active as a soloist and chamber music partner in the field of classical and new music. Andrea Conangla took part in important programs for young artists, for example in the Tenso Europe Chamber Choir and in the Académie Voix Nouvelles in France. She has sung in several museums in Stuttgart, with repertoire from John Cage to Bernhard Lang and performed numerous world premieres. In addition to her work as a singer, she is interested in the multidisciplinary aspect of art. An important part of her studies at the HMDK Stuttgart was also studying composition as a minor with Martin Schüttler, which opened up a new perspective on conceptual music, activism and performance.",
-            "During the 2020/21 season, Andrea Conangla has the pleasure of integrating the SWR Vokalensemble as Praktikantin. She is also Docent for Vocal Improvisation at the Staatliche Hochschule für Musik Trossingen."
+        "en": [
+            "Andrea Conangla (*1993 in Tarragona, Spain) grew up in Portugal where she studied violin, trumpet and singing. Before moving to Stuttgart in 2017 to study contemporary music with Prof. Angelika Luz at the State University for Music and Performing Arts Stuttgart, Andrea Conangla studied in Portugal (Universidade de Aveiro) and in the Netherlands (Prins Claus Conservatorium). Andrea Conangla holds a Master in Music Education where she developed new strategies to teach vocal technique to actors through movement and improvisation.",
+            "She is internationally active as a soloist and chamber music partner in the field of classical and contemporary music. Andrea Conangla took part in important Young Artist Programs like Tenso Europe Chamber Choir and the Académie Voix Nouvelles in France. Andrea Conangla is the winner of the Santa Cecília International Contest 2013, in Porto.",
+            "She has performed in several museums in Stuttgart, with repertoire from John Cage to Bernhard Lang, as well as in numerous world premieres. Andrea Conangla received a scholarship from the Kunststiftung Baden Württemberg in 2020 and is doing an internship as a soprano in the SWR Vokalensemble. Since winter semester 20/21 she is lecturer for Vocal Improvisation at the State University for Music Trossingen."
         ],
-        "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
-        ],
-        "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+        "de": [
+            "Andrea Conangla (*1993 in Tarragona, Spanien) aufgewachsen in Portugal, begann sie im Alter von 12 Jahren Geige, Trompete und im späteren Verlauf auch Gesang zu erlernen. Bevor sie 2017 nach Stuttgart zog, um Neue Musik bei Prof. Angelika Luz an der Staatlichen Hochschule für Musik und Darstellende Kunst Stuttgart zu studieren, studierte sie in Portugal (Universidade de Aveiro) und in den Niederlanden (Prins Claus Conservatorium). Im Rahmen Ihres Masters in Musikpädagogik, entwickelte sie neue Strategien, um Schauspielern durch Bewegung und Improvisation Gesangstechnik beizubringen.",
+            "Andrea Conangla ist als Solistin und Kammermusikpartnerin auf dem Gebiet der Klassischen wie der Neuen Musik international tätig. Sie nahm an wichtigen Programmen für junge KünstlerInnen teil, beispielsweise am Tenso Europe Chamber Choir und in der Académie Voix Nouvelles in Frankreich. Andrea Conangla ist Preisträgerin des Santa Cecília International Contest 2013, in Porto (1. Preis).",
+            "Sie trat in mehreren Stuttgarter Museen mit Repertoire von John Cage bis Bernhard Lang auf sowie in zahlreichen Uraufführungen. Andrea Conangla hat 2020 ein Stipendium der Kunststiftung Baden Württemberg erhalten und ist Praktikantin im SWR-Vokalensemble.",
+            "Seit dem WS 20/21 ist sie Dozentin für Vokal Improvisation an der Staatlichen Hochschule für Musik Trossingen."
         ]
     },
     "Services": [{
